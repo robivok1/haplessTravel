@@ -1,0 +1,156 @@
+body {
+	background: url(https://lh3.googleusercontent.com/aqMbvtiMicQgoE8yC29tcV2L3CrJeo55w50DLIBc1nWtnaIX2wQeY1OQQFUnFmJ16Gr_oZNmKkcmvaUWhbJ1LgMSFZftCvAbJFgVOCt1zJMkBVB9CTyHq5oSOGipWq0cgL-YDL8JLyTisYjKi52KxUcuLNZL1ntRVcVKIBWt2Z9tWmHgbYESaI_81z0ruLdJoxBMQd1Av8cEavNRmfRxzOkV4sc7XTXN4yy1hsq5DWxxrM067ppwWnQK9k2Fn-UtBWyIJw06sItAjPMUJW9EA5zx6zoq0LQOLwZPkKXSWYsnSn_7RJU3j7NZm2vf_pNzv5SQIyTSy-R_vlILHnPQZlpGoiXWhsNnG3-xUE5gbd-Z42x_B_DBSHhD7yN-27bxCV70utQgQSEmKEf1ra6XGRUshDzjC0v9cn7HhCR4nYT_pmSWuUYeoLMWWx8zdezNimiHUetU0T9nWknJb94OJFs2zZyGEYeH_c6ey27JRQ1QBetMgHZ62QpiESPikDQgsml0Ascxe8x-4pTA7mT7LAmmX6WgZvh7HBYNlUjiFhSno7jtRC78CgA2XOOj-RxKn1V5VNW6PbYg7JZPVMfUGSsfsZHlIlvxIFVq9fKl6lRVrplsdwSoaJRMHOFj89SzONlog4z2-BbCIwASBNDtqkDKZbBx6lIi=w1124-h843-no)
+	no-repeat fixed;
+	background-size: cover;
+	background-position: center;
+	height: 100%; 
+
+}
+
+.container {
+   min-height:100%;
+   position: relative;
+}
+
+.navbar-light .navbar-nav .active > .nav-link {
+	color: #42a54b;
+}
+
+.navbar-brand {
+	text-transform: uppercase;
+}
+
+.travelLogo {
+	height: 1em;
+}
+
+html {
+		height: 100%;
+}
+
+#content {
+ text-align: center;
+ padding-top: 25%;
+
+}
+
+.btn {
+	border: 2px solid #42a54b;
+	color: #42a54b;
+}
+.btn:hover {
+	background-color: #42a54b;
+	color: white;
+}
+
+h1 {
+	font-size: 60px;
+	color: white;
+}
+
+h3 {
+	font-size: 25px;
+	color: white;
+}
+
+.card {
+	background-color: white;
+	border: 1px solid black; 
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.4), 0 6px 20px 0 rgba(0, 0, 0, 0.4); 
+}
+.storypicture {
+	width: 100%;
+	float: left;
+}
+
+.card-title {
+	text-align: left;
+	font-size: 25px;
+	background-color: white;
+	margin: 0.5em;
+	color: #42a54b; 
+}
+.date {
+	margin: 1.5em 1em 1.5em 1em;
+	font-size: 1em;
+	color: #00b9b9;
+}
+
+.card-text {
+	text-align: center;
+	font-size: 15px;
+	background-color: white;
+	color: gray;
+	margin: 1em;
+
+}
+
+.lead {
+	color: white;
+	font-size: 1em;
+}
+
+hr {
+    width: 400px;
+    border-top: 1px solid #f8f8f8;
+    border-bottom: 1px solid rgba(0,0,0,0.2);
+}
+
+
+.jumbotron {
+	margin-bottom: 0;
+	text-align: center;
+	background: #5a6a84;
+}
+
+.footer {
+	position: relative;
+  	left: 0;
+  	bottom: 0;
+  	width: 100%;
+  	height: 50px;
+  	line-height: 50px;
+	background-color: #f8f9fa;
+  	color: #42a54b;
+  	text-align: right;
+  	font-size: 24px;
+}
+
+a {
+}
+.socialicons {
+	height: 2em;
+	padding-left: 3px;
+	padding-right: 3px;
+	color: #42a54b;
+
+}
+
+.footersign {
+	text-align: left;
+  	display: flex;   
+  	flex-wrap: wrap;
+}
+
+.footersocial {
+	text-align: right;
+}
+
+.myname {
+	font-size: 16px;
+}
+
+.fa-facebook {
+	color: #3B5998;
+}
+.fa-youtube {
+	color: #bb0000;
+}
+.fa-instagram {
+  color: #d6249f;
+}
+
+.fa {
+	display: inline;   
+}
+

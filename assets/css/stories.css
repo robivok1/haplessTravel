@@ -1,0 +1,30 @@
+body {
+	background-color: rgb(245, 245, 245);
+	color: #42a54b;
+}
+
+h1 {
+	margin-bottom: 20px;
+	color: #42a54b;
+	font-size: 48px;
+}
+
+h2 {
+	font-size: 32px;
+}
+
+h4 {
+	font-size: 24px;
+	font-family: 'Dancing Script', cursive;
+}
+
+img {
+	width: 100%;
+	float: center;
+}
+
+.container {
+	max-width: 600px;
+	margin: 20px auto;
+}
+
